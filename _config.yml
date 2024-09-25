@@ -94,7 +94,7 @@ plugins:
 collections:
   news:
     output: true
-    url: /news
+    directory: /news
   people:
     output: true
-    url: /people
+    directory: /people
