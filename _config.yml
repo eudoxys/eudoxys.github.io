@@ -90,3 +90,9 @@ exclude:
 
 plugins:
   - jekyll-redirect-from
+
+collections:
+  news:
+    output: true
+  people:
+    output: true
