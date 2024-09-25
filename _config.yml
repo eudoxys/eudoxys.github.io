@@ -87,3 +87,6 @@ exclude:
   - README.md
   - CNAME
   - TODO
+
+plugins:
+  - jekyll-redirect-from
