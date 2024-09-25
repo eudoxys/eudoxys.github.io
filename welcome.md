@@ -6,9 +6,7 @@ redirect_from:
   - /welcome
 ---
 
-We are an independent consulting group led by David P. Chassin. Dr. Chassin has more than 40 years experience modeling and simulating buildings and electric loads. We use these models and simulations to help utilities better understand how their customers’ loads are evolving so that they can better plan for an increasingly uncertain and unpredictable future.
-
-Eudoxys serves electric utilities, regulators, reliability organizations, and government agencies. We develop, validate, and maintain electric power system models, simulation, analyses, and forecasts for residential, commercial, industrial, agricultural, and transportation loads. We use physics-based and data-driven modeling techniques in tools that use GridLAB-D as the core modeling and simulation technology. 
+We are an independent consulting that provides models and simulations to help the electric power industry plan for an increasingly uncertain and unpredictable future. We serve electric utilities, regulators, reliability organizations, and government agencies by developing, validateing, and maintaining electric power system models, simulation, analyses, and forecasts for residential, commercial, industrial, agricultural, and transportation loads. We use physics-based and data-driven modeling techniques in tools that use GridLAB-D as the core modeling and simulation technology. 
 
 ## Modeling
 
