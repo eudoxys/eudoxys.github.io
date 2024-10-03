@@ -2,13 +2,17 @@
 layout: default
 title: People
 ---
-<h1>Eudoxys Staff</h1>
+<h1>{{ page.title }}</h1>
 
 <ul>
-  {% for post in site.people %}
+  {% for post in site.posts %}
+    {% if page.title == post.category %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }} 
+      {% assign date = post.date | date: "%Y-%m-%d" %}
+      <nobr>{% assign excerpt = post.excerpt | append: " (Posted "  | append: date | append: ")" %}
+      {{ excerpt }}</nobr>
     </li>
+    {% endif %}
   {% endfor %}
 </ul>

@@ -4,12 +4,13 @@
 
 # Site name (followed by page title)
 name: Eudoxys Sciences LLC
+name_font: Papyrus,fantasy
 
 # Short description on home page
 description: An independent consulting group providing grid modeling services, simulating buildings, and forecasting electric loads.
 
 # Picture on home page
-avatar: https://avatars.githubusercontent.com/u/20801735
+avatar: https://avatars.githubusercontent.com/u/21315775
 
 # Includes an icon in the footer for each username you enter
 footer-links:

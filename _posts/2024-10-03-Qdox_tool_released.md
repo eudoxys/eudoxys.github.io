@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Qdox tool released
-tags: [News,Tools,Release]
+category: Products
+tags: [Tools]
 ---
 
-*Eudoxys Sciences release `qdox` tool to publish Python module documentation*
+_Eudoxys Sciences releases `qdox` tool to publish Python module documentation_.
 
 The `qdox` tool generates an HTML file from a Python module contents and it's GitHub `README.md` file.
 

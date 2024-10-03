@@ -4,5 +4,9 @@
   link: /news/
 - name: People
   link: /people/
+- name: Products
+  link: /products/
+- name: Archive
+  link: /archive/
 - name: About
   link: /about/
