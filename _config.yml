@@ -2,18 +2,14 @@
 # This file contains configuration flags to customize your site
 #
 
-# Name of your site (displayed in the header)
+# Site name (followed by page title)
 name: Eudoxys Sciences LLC
 
-# Short bio or description (displayed in the header)
+# Short description on home page
 description: An independent consulting group providing grid modeling services, simulating buildings, and forecasting electric loads.
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
+# Picture on home page
 avatar: https://avatars.githubusercontent.com/u/20801735
-
-#
-# Flags below are optional
-#
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -21,7 +17,7 @@ footer-links:
   email: eudoxys.sciences.llc@gmail.com
   facebook:
   flickr:
-  github: eudoxys/eudoxys.github.io
+  github: eudoxys
   instagram:
   linkedin: david-chassin
   pinterest:
@@ -88,8 +84,8 @@ exclude:
   - CNAME
   - TODO
 
-plugins:
-  - jekyll-redirect-from
+# plugins:
+#   - jekyll-redirect-from
 
 collections:
   news:
