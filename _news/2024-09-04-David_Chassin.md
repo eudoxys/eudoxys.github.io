@@ -1,7 +1,7 @@
 ---
 layout: post
 title: David Chassin leads Eudoxys Sciences LLC
-tags: [People,Eudoxys,Members]
+tags: [People,Members]
 ---
 
 *David Chassin leads Eudoxys Sciences after forming it on September 3rd 2024.*

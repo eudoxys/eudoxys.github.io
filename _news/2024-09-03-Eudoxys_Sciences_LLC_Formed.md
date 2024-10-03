@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Eudoxys Sciences LLC Launched
-tags: [News,Eudoxys,Formation]
+tags: [News,Formation]
 ---
 
 _David P. Chassin forms Eudoxys Sciences LLC to provide load modeling, simulation, and forecasting services to utilities._
