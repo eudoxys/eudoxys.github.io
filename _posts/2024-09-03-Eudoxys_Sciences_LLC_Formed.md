@@ -5,11 +5,11 @@ category: News
 tags: [Events]
 ---
 
-_David P. Chassin forms Eudoxys Sciences LLC to provide load modeling, simulation, and forecasting services to utilities._
+_Eudoxys Sciences LLC provides load modeling, simulation, and forecasting services to utilities._
 
 # Welcome to Eudoxys Sciences LLC. 
 
-We are an independent consulting group led by David P. Chassin. Dr. Chassin has more than 40 years experience modeling and simulating buildings and electric loads. David uses these models and simulations to help utilities better understand how their customers’ loads are evolving so that they can better plan for an increasingly uncertain and unpredictable future.
+Eudoxys Sciences LLC is an independent consulting group led by David P. Chassin. Dr. Chassin has more than 40 years experience modeling and simulating buildings and electric loads. David uses these models and simulations to help utilities better understand how their customers’ loads are evolving so that they can better plan for an increasingly uncertain and unpredictable future.
 
 Eudoxys serves electric utilities, regulators, reliability organizations, and government agencies. We develop, validate, and maintain electric power system models, simulation, analyses, and forecasts for residential, commercial, industrial, agricultural, and transportation loads. We use physics-based and data-driven modeling techniques in tools that use GridLAB-D as the core modeling and simulation technology. 
 
