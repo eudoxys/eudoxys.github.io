@@ -1,0 +1,8 @@
+- name: Welcome
+  link: /
+- name: News
+  link: /news.html
+- name: People
+  link: /people.html
+- name: About
+  link: /about.html

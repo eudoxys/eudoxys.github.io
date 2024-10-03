@@ -1,0 +1,14 @@
+---
+layout: default
+title: People
+---
+<h1>Eudoxys Staff</h1>
+
+<ul>
+  {% for post in site.people %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }} 
+    </li>
+  {% endfor %}
+</ul>
