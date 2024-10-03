@@ -94,3 +94,6 @@ collections:
   people:
     output: true
     directory: /people
+  topics:
+    output: true
+    directory: /topics

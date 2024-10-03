@@ -27,10 +27,9 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/">Welcome</a>
-            <a href="{{ site.baseurl }}/news">News</a>
-            <a href="{{ site.baseurl }}/people">People</a>
-            <a href="{{ site.baseurl }}/about">About</a>
+            {% for item in site.data.navigation %}
+              <a href="{{ item.link }}" {% if page.url == item.link %}style="font-weight: bold; text-decoration: underline"{% endif %}>&nbsp;{{ item.name }}&nbsp;</a>
+            {% endfor %}
           </nav>
         </header>
       </div>
