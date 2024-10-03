@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Qdox tool released
-tags: [News,Eudoxys,Formation]
+tags: [News,Eudoxys,Tools,Release]
 ---
 
 *Eudoxys Sciences release `qdox` tool to publish Python module documentation*
