@@ -5,11 +5,11 @@ category: Products
 tags: [Tools]
 ---
 
-_Eudoxys Sciences releases `qdox` tool to publish Python module documentation_.
+_Eudoxys Sciences releases `qdox` developer tool to publish Python module documentation_.
 
-The `qdox` tool generates an HTML file from a Python module contents and it's GitHub `README.md` file.
+The `qdox` tool generates an HTML file from a Python module contents and its GitHub `README.md` file.
 
-The `qdox` command is designed for simple Python projects. The formatting is designed to use simple text layout as the input so that the same documentation source can be used for both Python `help()` output and the documentation pages.
+The `qdox` command is designed for simple Python projects. The formatting uses simple text layout as the input so that the same documentation source can be used for both Python `help()` output and the documentation pages.
 
 The `qdox` command loads the module specified in the `pyproject.toml` file and formats the `__doc__` property of the module as the command line documentation. It then formats the python functions and constants, followed by the project metadata.
 
