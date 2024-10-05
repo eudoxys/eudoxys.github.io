@@ -18,7 +18,7 @@ We also develop transmission and distribution GridLAB-D models that include flex
 
 We prepare and validate GridLAB-D transmission and distribution simulations for models of all sizes and complexity. 
 
-Simulations are typically run on custom-built AWS images that have been optimized for GridLAB-D models are varying sizes and complexity. Data is usually delivered and collected in CSV files for analysis.
+Simulations are typically run on custom-built AWS images that have been optimized for GridLAB-D models of varying sizes and complexity. Data is usually delivered and collected in CSV files for analysis.
 
 Model validation depends on the model scale. For smaller distribution system models, AMI data is preferred for validation. For large distribution and transmission system models SCADA data is needed instead.
 
