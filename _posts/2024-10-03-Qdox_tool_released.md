@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Qdox tool released
+title: Qdox released
 category: Products
 tags: [Tools]
 ---
