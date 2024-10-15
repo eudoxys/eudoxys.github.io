@@ -1,27 +1,14 @@
 ---
 layout: post
-title: Arras Energy training
-category: Services
-tags: [Services]
+title: GridLAB-D Workflow Template
+category: Products
+tags: [Products]
 ---
 
-_Eudoxys Sciences announces Arras Energy training program_.
+_Eudoxys Sciences releases GridLAB-D Workflow Template_.
 
-Eudoxys Sciences LLC will start providing training course sfor utility engineers, academic faculty and students, and regulatory agency staff. Two-hour training courses available include the following subjects.
+Eudoxys Sciences LLC has release a GitHub workflow template for GridLAB-D. GridLAB-D Workflow projects are GitHub repositories that automatically run GridLAB-D simulations with multiple steps, including pre-processing input data and post-processing output results.
 
-1. **Introduction** - An overview of the motivation, theory, and history of GridLAB-D.
-1. **GridLAB-D Use-Cases** - Explore ways GridLAB-D is used to address power grid challenges.
-1. **Building GridLAB-D** - How to build a development version of GridLAB-D.
-1. **GridLAB-D modeling** - Modeling systems in GridLAB-D.
-1. **Testing and validation** - Testing and validating GridLAB-D systems.
-1. **Modules and classes** - Modules and classes used in power system modeling.
-1. **Core engine and solvers** - Deep dive into how GridLAB-D simulates systems.
-1. **Python libraries and extensions** - Deep dive into the Python libraries and APIs.
-1. **Data and model converters** - Importing and exporting data and models.
-1. **Geodata packages** - Geographic data packages in GridLAB-D
-1. **Subcommands** - Creating subcommands to provide services in GridLAB-D.
-1. **Tools and utilities** - Creating scripts and programs to help users of GridLAB-D.
-1. **Production and release** - Distribution and dissemination of GridLAB-D software.
-1. **Working with LF Energy** - Learn how to become part of the LF Energy open-source software community.
+The Eudoxys workflow template can also be run on secure on-premise servers, workstations, or laptop using <a href="https://github.com/nektos/act">`act`</a>, an open-source tool for running github actions on hosted platforms.
 
-For more information, pricing, and scheduling please contact <a href="email:dpchassin@gmail.com">David Chassin (dpchassin@gmail.com)</a>.
+For more information, see the github repository <a href="https://github.com/eudoxys/gridlabd-workflow-template">`eudoxys/gridlabd-workflow-template`</a>.
