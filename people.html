@@ -4,15 +4,20 @@ title: People
 ---
 <h1>{{ page.title }}</h1>
 
-<ul>
+<table>
   {% for post in site.posts %}
     {% if page.title == post.category %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {% assign date = post.date | date: "%Y-%m-%d" %}
-      <nobr>{% assign excerpt = post.excerpt | append: " (Posted "  | append: date | append: ")" %}
-      {{ excerpt }}</nobr>
-    </li>
+    <hr/>
+    <div style="overflow:hidden">
+      <div style="float:left">
+        <br/><img src="{{ post.image }}" width="128" />
+      </div>
+      <div style="float:right">
+        <h2><a href="{{ post.url }}"><nobr>{{ post.title }}</nobr></a></h2>
+        {{ post.excerpt }}
+        {{ post.date | date: "(Posted %B %e, %Y)" }}
+      </div>
+    </div>
     {% endif %}
   {% endfor %}
-</ul>
+</table>
