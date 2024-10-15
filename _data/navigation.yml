@@ -6,6 +6,10 @@
   link: /people/
 - name: Products
   link: /products/
+- name: Services
+  link: /services/
+- name: Tools
+  link: /tools/
 - name: Archive
   link: /archive/
 - name: About
