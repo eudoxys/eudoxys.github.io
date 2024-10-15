@@ -7,7 +7,7 @@ tags: [Services]
 
 _Eudoxys Sciences announces Arras Energy training program_.
 
-Eudoxys Sciences LLC will start providing training course sfor utility engineers, academic faculty and students, and regulatory agency staff. Two-hour training courses available include the following subjects.
+Eudoxys Sciences LLC provides training courses for utility engineers, academic faculty and students, and regulatory agency staff. Two-hour training courses available include the following subjects.
 
 1. **Introduction** - An overview of the motivation, theory, and history of GridLAB-D.
 1. **GridLAB-D Use-Cases** - Explore ways GridLAB-D is used to address power grid challenges.
