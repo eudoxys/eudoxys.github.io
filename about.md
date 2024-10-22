@@ -12,6 +12,12 @@ Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSer5PnrZ8_Z
 
 Corporate email: [eudoxys.sciences.llc@gmail.com](email:eudoxys.sciences.llc@gmail.com)
 
+# GitHub
+
+See [Eudoxys on GitHub](https://github.com/eudoxys) for more information about our open-source products, tools, and services.
+
+# Email Verification
+
 Proprietor email: [dpchassin@gmail.com](email:dpchassin@gmail.com)
 
 *Note that these email addresses are for validation/reference purposes only while we resolve problems with AWS SES corporate email addresses.*
