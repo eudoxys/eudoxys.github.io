@@ -9,3 +9,9 @@ We are an independent consulting group led by David P. Chassin, PhD. Dr. Chassin
 # Contact us
 
 Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSer5PnrZ8_ZiJod1kf6pUG_flPbsc2AtxRx5BMiRiM8uM_vaA/viewform) to have us reach out to you.
+
+Corporate email: [eudoxys.sciences.llc@gmail.com](email:eudoxys.sciences.llc@gmail.com)
+
+Proprietor email: [dpchassin@gmail.com](email:dpchassin@gmail.com)
+
+*Note that these email addresses are for validation/reference purposes only while we resolve problems with AWS SES corporate email addresses.*
