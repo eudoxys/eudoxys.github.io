@@ -11,4 +11,4 @@ The North American Electric Reliability Corporation (NERC) Load Modeling Work Gr
 
 The talk is titled "Grid Impact of Building Electrification: Load Modeling and Forecast for the next 10 years" and will be presented during the chapter meeting from 5:30 PM to 7:30 PM on October 23, 2024 at the Renaissance Seattle Hotel.
 
-For more information see the [ASHRAE Puget Sounds Chapter event calendar](https://pugetsoundashrae.org/events/event/october-2024-chapter-meeting/) or [view the presentation](https://drive.google.com/file/d/13KfWVUsAcN5SR69UDZl2GQON8XIAFWRi/view).
+For more information see the [ASHRAE Puget Sounds Chapter event calendar](https://pugetsoundashrae.org/events/event/october-2024-chapter-meeting/) or [view the presentation](https://drive.google.com/file/d/1EXvlMglYVB41df6CWG-wasBIds-ugpH2/view).
