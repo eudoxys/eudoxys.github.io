@@ -48,7 +48,7 @@ We develop, analyze, and assist in validation and deployment of advanced load an
 
 ## Training
 
-We provide training course for utility engineers, academic faculty and students, and regulatory agency staff. Two-hour training courses available include the following
+We provide training courses for utility engineers, academic faculty and students, and regulatory agency staff. Two-hour training courses available include the following
 
 1. **Introduction** - An overview of the motivation, theory, and history of GridLAB-D.
 1. **GridLAB-D Use-Cases** - Explore ways GridLAB-D is used to address power grid challenges.
