@@ -1,0 +1,12 @@
+---
+layout: post
+title: Eudoxys and Verdant Associates Partner On CEC Distributed Energy and Electrification Analysis RFP
+category: News
+tags: [Events]
+---
+
+*Eudoxys Sciences LLC partners with Verdant Associates to provide technical assistance to the California Energy Commission.*
+
+To buildout the state’s electric distribution grid model to support the CEC in assessing various electrification and distributed energy resource (DER) adoption scenarios. Eudoxys Sciences LLC has teamed up with [Verdant Associates](https://verdantassoc.com/) to use the open-source software Arras Energy, and evaluate the reliability, equity and cost implications of emerging DER integration strategies. Eudoxys will lead the distribution system modeling and staff training using the tool developed under this project to analyze current and future data as the electric distribution grid evolves.
+
+See [CEC RFP-24-801](https://www.energy.ca.gov/solicitations/2024-10/rfp-24-801-distributed-energy-and-electrification-analysis) for details.
