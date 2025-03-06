@@ -13,8 +13,8 @@ A combination of environmental policy and falling production costs has led to
 the proliferation of distributed energy resources (DERs) in electric power
 systems. Transactive energy has emerged as a fundamentally new approach to
 managing electric energy delivery in systems with very high levels of DERs.
-In this paper we address the question “Can we prove the optimality and
-stability of general transactive energy systems?” To better understand,
+In this paper we address the question "Can we prove the optimality and
+stability of general transactive energy systems?" To better understand,
 observe and control the behavior of transactive control systems we generalize
 an existing solution to the optimal dispatch function that minimizes the cost
 objective function in a system with an energy storage price, a power
