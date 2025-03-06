@@ -10,5 +10,7 @@
   link: /services/
 - name: Tools
   link: /tools/
+- name: Papers
+  link: /papers/
 - name: About
   link: /about/
