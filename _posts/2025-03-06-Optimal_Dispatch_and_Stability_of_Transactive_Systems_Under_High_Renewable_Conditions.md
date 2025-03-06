@@ -5,7 +5,7 @@ category: Products
 tags: [Products]
 ---
 
-David P. Chassin, Sahand Behboodi, and L. Lynne Kiesling, "Optimal Dispatch and Stability of Transactive Systems Under High Renewable Conditions", Eudoxys Sciences, Marysville Washington USA (2025). 
+David P. Chassin, Sahand Behboodi, and L. Lynne Kiesling 
 
 A combination of environmental policy and falling production costs has led to
 the proliferation of distributed energy resources (DERs) in electric power
