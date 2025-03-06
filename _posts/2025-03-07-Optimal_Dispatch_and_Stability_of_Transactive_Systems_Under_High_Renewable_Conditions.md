@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Optimal Dispatch and Stability of Transactive Systems Under High Renewable Conditions
-category: Papers
-tags: [Events]
+category: Products
+tags: [Products]
 ---
 
 **Optimal Dispatch and Stability of Transactive Systems Under High Renewable Conditions**
