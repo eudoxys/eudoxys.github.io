@@ -18,6 +18,8 @@ See [Eudoxys on GitHub](https://github.com/eudoxys) for more information about o
 
 # Email Verification
 
-Proprietor email: [dpchassin@gmail.com](email:dpchassin@gmail.com)
+Proprietor email: [dchassin@eudoxys.com](email:dchassin@eudoxys.com)
 
-*Note that these email addresses are for validation/reference purposes only while we resolve problems with AWS SES corporate email addresses.*
+# Subscriptions
+
+[Subscribe/unsubscribe](https://forms.gle/maeprnx4uwvQLtD77) to email update from Eudoxys.
