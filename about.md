@@ -22,4 +22,4 @@ Proprietor email: [dchassin@eudoxys.com](email:dchassin@eudoxys.com)
 
 # Subscriptions
 
-[Subscribe/unsubscribe](https://forms.gle/maeprnx4uwvQLtD77) to email update from Eudoxys.
+[Subscribe/unsubscribe](https://forms.gle/maeprnx4uwvQLtD77) to email updates from Eudoxys.
