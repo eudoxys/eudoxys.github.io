@@ -11,14 +11,18 @@ We are an independent consulting group led by David P. Chassin, PhD. Dr. Chassin
 Corporate email: contact@eudoxys.com
 
 Other useful contact email that are monitored by cognizant people:
-* Accounting: accounting@eudoxys.com
-* Account payable: accounts.payable@eudoxys.com
-* Account receivable: accounts.receivable@eudoxys.com
-* Contracts: contracts@eudoxys.com
-* Legal: legal@eudoxys.com
-* Operations: operations@eudoxys.com
-* Security: security@eudoxys.com
-* Support: support@eudoxys.com
+
+<select>
+  <option value="accounting@eudoxys.com">Accounting</option>
+  <option value="accounts.payable@eudoxys.com">Accounts payable</option>
+  <option value="accounts.receivable@eudoxys.com">Accounts receivable</option>
+  <option value="contracts@eudoxys.com">Contracts</option>
+  <option value="legal@eudoxys.com">Legal</option>
+  <option value="operations@eudoxys.com">Operations</option>
+  <option value="security@eudoxys.com">Security</option>
+  <option value="support@eudoxys.com">Support</option>
+</select>
+
 
 Alternatively, you can fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSer5PnrZ8_ZiJod1kf6pUG_flPbsc2AtxRx5BMiRiM8uM_vaA/viewform) to have us reach out to you regarding your inquiry.
 
