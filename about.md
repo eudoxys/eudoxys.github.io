@@ -8,9 +8,19 @@ We are an independent consulting group led by David P. Chassin, PhD. Dr. Chassin
 
 # Contact us
 
-Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSer5PnrZ8_ZiJod1kf6pUG_flPbsc2AtxRx5BMiRiM8uM_vaA/viewform) to have us reach out to you.
+Corporate email: contact@eudoxys.com
 
-Corporate email: [eudoxys.sciences.llc@gmail.com](email:eudoxys.sciences.llc@gmail.com)
+Other useful contact email that are monitored by cognizant people:
+* Accounting: accounting@eudoxys.com
+* Account payable: accounts.payable@eudoxys.com
+* Account receivable: accounts.receivable@eudoxys.com
+* Contracts: contracts@eudoxys.com
+* Legal: legal@eudoxys.com
+* Operations: operations@eudoxys.com
+* Security: security@eudoxys.com
+* Support: support@eudoxys.com
+
+Alternatively, you can fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSer5PnrZ8_ZiJod1kf6pUG_flPbsc2AtxRx5BMiRiM8uM_vaA/viewform) to have us reach out to you regarding your inquiry.
 
 # GitHub
 
@@ -18,8 +28,8 @@ See [Eudoxys on GitHub](https://github.com/eudoxys) for more information about o
 
 # Email Verification
 
-Proprietor email: [dchassin@eudoxys.com](email:dchassin@eudoxys.com)
+Proprietor email: dchassin@eudoxys.com
 
 # Subscriptions
 
-[Subscribe/unsubscribe](https://forms.gle/maeprnx4uwvQLtD77) to email updates from Eudoxys.
+[Subscribe/unsubscribe](https://forms.gle/maeprnx4uwvQLtD77) to receive email updates from Eudoxys when changes to this website are posted.
