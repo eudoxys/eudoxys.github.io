@@ -12,17 +12,16 @@ Corporate email: contact@eudoxys.com
 
 Other useful contact email that are monitored by cognizant people:
 
-<select>
-  <option value="accounting@eudoxys.com">Accounting</option>
-  <option value="accounts.payable@eudoxys.com">Accounts payable</option>
-  <option value="accounts.receivable@eudoxys.com">Accounts receivable</option>
-  <option value="contracts@eudoxys.com">Contracts</option>
-  <option value="legal@eudoxys.com">Legal</option>
-  <option value="operations@eudoxys.com">Operations</option>
-  <option value="security@eudoxys.com">Security</option>
-  <option value="support@eudoxys.com">Support</option>
-</select>
-
+| Contact | Email |
+| ------- | ----- |
+| **Accounting** | accounting@eudoxys.com |
+| &nbsp; Accounts payable | accounts.payable@eudoxys.com |
+| &nbsp; Account receivable | accounts.receivable@eudoxys.com |
+| **Legal** | legal@eudoxys.com |
+| &nbsp; Contracts | contracts@eudoxys.com |
+| **Operations** | operations@eudoxys.com |
+| &nbsp; Security | security@eudoxys.com |
+| &nbsp; Support | support@eudoxys.com |
 
 Alternatively, you can fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSer5PnrZ8_ZiJod1kf6pUG_flPbsc2AtxRx5BMiRiM8uM_vaA/viewform) to have us reach out to you regarding your inquiry.
 
