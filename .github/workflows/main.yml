@@ -3,9 +3,6 @@ name: notifications
 on:
     push:
         branches: [ main ]
-env:
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    
 jobs:
 
     notify:
@@ -13,14 +10,11 @@ jobs:
         runs-on: ubuntu-24.04
         environment: production
         
-        env:
-          GIT_DISCOVERY_ACROSS_FILESYSTEM: 1
-          
         steps:
         - uses: actions/checkout@v4
           with:
             repository: eudoxys/mailer
-            token: ${{ secrets.EUDOXYS_MAILER_ACCESS_TOKEN }}
+            token: ${{ secrets.EUDOXYS_MAILER_ACCESS_KEY }}
             
         - name: Install mailer
           run: |
