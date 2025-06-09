@@ -1,0 +1,23 @@
+name: notifications
+
+on:
+    push:
+        branches: [ main ]
+
+jobs:
+
+    notify:
+
+        runs_on: ubuntu-24.04
+
+        steps:
+        - name: Install mailer
+          run: |
+            python3 -m venv .venv
+            source .venv/bin/activate
+            python3 -m pip install pip --upgrade 
+            python3 -m pip install -r requirements.txt
+            python3 -m pip install -r mailer/requirements.txt
+
+        - name: Send notifications
+          run: python3 -c 'from mailer import *; update_all_subscribers()'
