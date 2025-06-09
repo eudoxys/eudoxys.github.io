@@ -11,6 +11,8 @@ jobs:
     notify:
 
         runs-on: ubuntu-24.04
+        environment: production
+        
         env:
           GIT_DISCOVERY_ACROSS_FILESYSTEM: 1
           
