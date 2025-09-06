@@ -8,7 +8,7 @@ We are an independent consulting group led by David P. Chassin, PhD. Dr. Chassin
 
 # Contact us
 
-Phone number: **1+425-474-9298** (9am-5pm, Monday-Friday, except legal holidays)
+Phone number: **1+425-474-9298** (8am-4pm Pacific, Monday-Friday, except legal holidays)
 
 Corporate email: contact@eudoxys.com
 
