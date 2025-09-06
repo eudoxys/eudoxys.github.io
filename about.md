@@ -8,20 +8,22 @@ We are an independent consulting group led by David P. Chassin, PhD. Dr. Chassin
 
 # Contact us
 
+Phone number: **1+425-474-9298** (9am-5pm, Monday-Friday, except legal holidays)
+
 Corporate email: contact@eudoxys.com
 
-Other useful contact email that are monitored by cognizant people:
+Other useful contact emails that are monitored by cognizant people:
 
-| Contact | Email |
-| ------- | ----- |
-| **Accounting** | accounting@eudoxys.com |
-| &nbsp; Accounts payable | accounts.payable@eudoxys.com |
-| &nbsp; Account receivable | accounts.receivable@eudoxys.com |
-| **Legal** | legal@eudoxys.com |
-| &nbsp; Contracts | contracts@eudoxys.com |
-| **Operations** | operations@eudoxys.com |
-| &nbsp; Security | security@eudoxys.com |
-| &nbsp; Support | support@eudoxys.com |
+| Contact | &nbsp;&nbsp;&nbsp; | Email |
+| :------- | :------------------: | :----- |
+| **Accounting** | : | accounting@eudoxys.com |
+| &nbsp; Accounts payable |  : |accounts.payable@eudoxys.com |
+| &nbsp; Account receivable |  : |accounts.receivable@eudoxys.com |
+| **Legal** |  : |legal@eudoxys.com |
+| &nbsp; Contracts |  : |contracts@eudoxys.com |
+| **Operations** |  : |operations@eudoxys.com |
+| &nbsp; Security |  : |security@eudoxys.com |
+| &nbsp; Support |  : |support@eudoxys.com |
 
 Alternatively, you can fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSer5PnrZ8_ZiJod1kf6pUG_flPbsc2AtxRx5BMiRiM8uM_vaA/viewform) to have us reach out to you regarding your inquiry.
 
