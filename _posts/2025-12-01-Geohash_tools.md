@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Geohash tools released
+title: Geohash tools
 category: Tools
 tags: [Tools]
 ---
