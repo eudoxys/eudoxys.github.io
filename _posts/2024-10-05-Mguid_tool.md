@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mguid released
+title: Mguid tool
 category: Tools
 tags: [Tools]
 ---
