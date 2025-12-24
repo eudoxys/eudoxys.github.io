@@ -4,6 +4,7 @@ title: About Us
 permalink: /about/
 ---
 
+# About EUDOXYS&trade; 
 We are an independent consulting group led by David P. Chassin, PhD. Dr. Chassin has more than 40 years experience modeling and simulating buildings and electric loads. We use these models and simulations to help utilities understand how their customers’ loads are evolving so that they can plan for an increasingly uncertain and unpredictable future.
 
 # Contact us
