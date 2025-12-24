@@ -6,6 +6,8 @@ redirect_from:
   - /welcome
 ---
 
+# Welcome to EUDOXYS&trade;
+
 *Eudoxys Sciences LLC* is an independent consulting group that provides models and simulations to help the electric power industry plan for an increasingly uncertain and unpredictable future. We serve electric utilities, regulators, reliability organizations, and government agencies by developing, validating, and maintaining electric power system models, simulation, analyses, and forecasts for residential, commercial, industrial, agricultural, and transportation loads. We use physics-based and data-driven modeling techniques in tools that use GridLAB-D as the core modeling and simulation technology. 
 
 ## Modeling
