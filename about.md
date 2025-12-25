@@ -14,7 +14,7 @@ Corporate email: contact@eudoxys.com
 
 Other useful contact emails that are monitored by cognizant people:
 
-| Contact<hr/> | &nbsp;&nbsp;&nbsp; | Email<hr/> |
+| <u>Contact</u> | &nbsp;&nbsp;&nbsp; | <u>Email</u> |
 | :------- | :------------------: | :----- |
 | **Accounting** | : | accounting@eudoxys.com |
 | &nbsp; Accounts payable |  : |accounts.payable@eudoxys.com |
