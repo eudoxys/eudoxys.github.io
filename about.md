@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Eudoxys&x2120;
+title: About Eudoxys&#8480;
 permalink: /about/
 ---
  
