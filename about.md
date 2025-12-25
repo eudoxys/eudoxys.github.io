@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About EUDOXYS&trade;
+title: About Eudoxys&U+2120;;
 permalink: /about/
 ---
  
