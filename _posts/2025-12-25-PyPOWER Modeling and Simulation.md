@@ -7,7 +7,7 @@ tags: [Services]
 
 _Eudoxys Sciences announces PyPOWER system modeling services_.
 
-Eudoxys Sciences LLC provides PyPOWER modelilng services for bulk power system research and planning. The following services are available:
+Eudoxys Sciences LLC provides PyPOWER modeling services for bulk power system research and planning. The following services are available:
 
 1. **Model conversion** - Convert models from PSS/E&reg;, GridLAB-D&trade;, or Arras Energy.
 1. **Simulations** - Solve quasi-steady state time-series simulation for historical conditions.
