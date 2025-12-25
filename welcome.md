@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to EUDOXYS&trade;
+title: Welcome to Eudoxys&#8480;
 permalink: /
 redirect_from:
   - /welcome
