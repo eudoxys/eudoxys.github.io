@@ -3,7 +3,7 @@ layout: post
 title: GridChat Unveiled at LF Energy Webinar
 category: News
 tags: [Events]
-image: /images/LF-Energy-Arras-GridChat-Webinar-30-January-2025_share-pdf-1-2048.webp
+image: /images/GridChat.png
 ---
 
 *David Chassin and Pedram Jahangiri from Amazon Web Services (AWS) host LF Energy webinar about GridChat.*
