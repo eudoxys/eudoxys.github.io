@@ -15,4 +15,4 @@ This report then examines methods proposed by researchers that appear promising 
     
 The report concludes with a discussion of the barriers to adoption and a research agenda focused on cold-weather extremes, electrification and calibrated uncertainty.
 
-[Read the full paper (includes interactive figures)](https://github.com/eudoxys/eudoxys.github.io/raw/refs/heads/main/reports/ES-2026-01.pdf).
+[Download the full paper](https://github.com/eudoxys/eudoxys.github.io/raw/refs/heads/main/reports/ES-2026-01.pdf).
