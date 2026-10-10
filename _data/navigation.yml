@@ -2,8 +2,6 @@
   link: /
 - name: News
   link: /news/
-- name: People
-  link: /people/
 - name: Products
   link: /products/
 - name: Services

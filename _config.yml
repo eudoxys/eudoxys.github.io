@@ -58,7 +58,7 @@ version: v1.2.0
 
 # Jekyll 3 now only supports Kramdown for Markdown
 markdown: kramdown
-theme: minima
+# theme: minima
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
@@ -73,9 +73,9 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
 
 # Exclude these files from your production _site
 exclude:

@@ -3,6 +3,7 @@ layout: post
 title: Eudoxys Sciences LLC Launched
 category: News
 tags: [Events]
+image: /images/sunset.jpg
 ---
 
 _Eudoxys Sciences LLC provides load modeling, simulation, and forecasting services to utilities._

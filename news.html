@@ -1,21 +1,43 @@
 ---
 layout: default
-title: News
+title: Publications
+permalink: /news/
 ---
-<h1>Eudoxys&#8480; {{ page.title }}</h1>
 
-<ul>
-  {% for post in site.posts %}
-    {% if page.title == post.category %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {% assign date = post.date | date: "%Y-%m-%d" %}
-      <nobr>{% assign excerpt = post.excerpt | append: " (Posted "  | append: date | append: ")" %}
-      {{ excerpt }}</nobr>
-    </li>
-    {% endif %}
+<div class="news-page-header">
+  <h1>Publications &amp; News</h1>
+</div>
+
+{% assign news_posts = site.posts | where: "category", "News" %}
+
+<!-- Featured post — most recent -->
+{% assign featured = news_posts | first %}
+{% if featured %}
+<a href="{{ featured.url }}" class="news-featured">
+  <div class="news-featured-img">
+    <img src="{{ featured.image | default: '/images/placeholder-publications.svg' }}" alt="{{ featured.title }}">
+  </div>
+  <div class="news-featured-body">
+    <span class="news-tag">Latest</span>
+    <h2>{{ featured.title }}</h2>
+    <p>{{ featured.excerpt | strip_html | truncate: 220 }}</p>
+    <span class="news-featured-date">{{ featured.date | date: "%B %d, %Y" }}</span>
+  </div>
+</a>
+{% endif %}
+
+<!-- Remaining posts grid -->
+<div class="news-grid">
+  {% for post in news_posts offset:1 %}
+  <a href="{{ post.url }}" class="news-grid-card">
+    <div class="news-grid-img">
+      <img src="{{ post.image | default: '/images/placeholder-publications.svg' }}" alt="{{ post.title }}">
+    </div>
+    <div class="news-grid-body">
+      <span class="news-grid-date">{{ post.date | date: "%B %d, %Y" }}</span>
+      <h3>{{ post.title }}</h3>
+      <p>{{ post.excerpt | strip_html | truncate: 130 }}</p>
+    </div>
+  </a>
   {% endfor %}
-</ul>
-
-<hr/>
-For older news by topic see <a href="/archive/">the archive</a>.
+</div>

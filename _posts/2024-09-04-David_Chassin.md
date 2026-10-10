@@ -3,6 +3,7 @@ layout: post
 title: David Chassin launches Eudoxys Sciences LLC
 category: News
 tags: [Staff]
+image: /images/David_Chassin.png
 ---
 
 *David Chassin is the president of Eudoxys Sciences after forming it on September 3rd 2024.*

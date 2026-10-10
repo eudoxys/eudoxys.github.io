@@ -3,6 +3,7 @@ layout: post
 title: Optimal Dispatch and Stability of Transactive Systems Under High Renewable Conditions
 category: Products
 tags: [Products]
+image: /images/road.jpg
 ---
 
 David P. Chassin, Sahand Behboodi, and L. Lynne Kiesling 

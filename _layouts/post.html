@@ -2,32 +2,21 @@
 layout: default
 ---
 
-<article class="post">
- <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> 
-  <h1>{{ page.title }}</h1>
+<div class="page-content">
+  <article>
+    <div class="post-header">
+      <h1>{{ page.title }}</h1>
+      <p class="post-meta">
+        {{ page.date | date: "%B %e, %Y" }}
+        {% if page.category %} &middot; {{ page.category }}{% endif %}
+        {% assign tags = page.tags %}
+        {% if tags.size > 0 %}
+          &middot; {% for tag in tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}
+        {% endif %}
+      </p>
+    </div>
 
-  <div class="post-tags">
-    {% if post %}
-      {% assign tags = post.tags %}
-    {% else %}
-      {% assign tags = page.tags %}
-    {% endif %}
-    Categories: 
-    {% for tag in tags %}
-    <a href="{{site.baseurl}}/archive/#{{tag|slugize}}" class="w3-button w3-blue w3-hover-teal w3-round-xxlarge w3-padding-small w3-small">{{tag}}</a>
-    {% unless forloop.last %}&nbsp;{% endunless %}
-    {% endfor %}
-  </div>
-
-  <div class="entry">
     {{ content }}
-  </div>
-
-  <div class="date">
-    <hr/>
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
-
-  {% include disqus.html %}
+  </article>
   {% include mathjax.html %}
-</article>
+</div>

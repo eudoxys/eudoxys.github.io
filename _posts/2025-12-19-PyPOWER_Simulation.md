@@ -2,7 +2,9 @@
 layout: post
 title: PyPOWER Simulation
 category: Tools
+subcategory: Simulation
 tags: [Tools]
+image: /images/pyPOWER.png
 ---
 
 _Eudoxys Sciences releases `pypower_sim` simulation API for `pypower`_.
