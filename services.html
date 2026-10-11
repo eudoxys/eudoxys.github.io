@@ -2,17 +2,49 @@
 layout: default
 title: Services
 ---
-<h1>Eudoxys&#8480; {{ page.title }}</h1>
 
-<ul>
-  {% for post in site.posts %}
-    {% if page.title == post.category %}
-    <li>
+<div class="bento-header">
+  <h1>Eudoxys&#8480; Services</h1>
+  <p>Consulting engagements for grid modeling, simulation, analysis, forecasting, and training.</p>
+</div>
+
+<section class="spotlight" id="services-spotlight">
+  {% assign service_posts = site.posts | where: "category", "Services" %}
+  {% for post in service_posts %}
+  <div class="spotlight-slide">
+    <a href="{{ post.url }}" class="spotlight-media">
+      {% if post.image %}
+        <img src="{{ post.image }}" alt="{{ post.title }}">
+      {% else %}
+        <img src="/images/placeholder-services.svg" alt="{{ post.title }}">
+      {% endif %}
+    </a>
+    <div class="spotlight-info">
+      <span class="spotlight-date">{{ post.date | date: "%B %d, %Y" }}</span>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {% assign date = post.date | date: "%Y-%m-%d" %}
-      <nobr>{% assign excerpt = post.excerpt | append: " (Posted "  | append: date | append: ")" %}
-      {{ excerpt }}</nobr>
-    </li>
-    {% endif %}
+      <p>{{ post.excerpt | strip_html | truncate: 220 }}</p>
+      <a href="{{ post.url }}" class="btn-learn">Learn More</a>
+    </div>
+  </div>
   {% endfor %}
-</ul>
+</section>
+
+<script>
+(function() {
+  var slides = document.querySelectorAll('#services-spotlight .spotlight-slide');
+  if (!slides.length) return;
+  if (!('IntersectionObserver' in window)) {
+    slides.forEach(function(s) { s.classList.add('in-view'); });
+    return;
+  }
+  var observer = new IntersectionObserver(function(entries) {
+    entries.forEach(function(entry) {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('in-view');
+        observer.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.2 });
+  slides.forEach(function(slide) { observer.observe(slide); });
+})();
+</script>

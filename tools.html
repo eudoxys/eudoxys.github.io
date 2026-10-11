@@ -2,17 +2,58 @@
 layout: default
 title: Tools
 ---
-<h1>Eudoxys&#8480; {{ page.title }}</h1>
 
-<ul>
-  {% for post in site.posts %}
-    {% if page.title == post.category %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {% assign date = post.date | date: "%Y-%m-%d" %}
-      <nobr>{% assign excerpt = post.excerpt | append: " (Posted "  | append: date | append: ")" %}
-      {{ excerpt }}</nobr>
-    </li>
-    {% endif %}
+<div class="bento-header">
+  <h1>Eudoxys&#8480; Tools</h1>
+  <p>Open-source utilities and data accessors for energy data, geohashing, and load analysis.</p>
+</div>
+
+{% assign tool_posts = site.posts | where: "category", "Tools" %}
+{% assign tool_groups = tool_posts | group_by: "subcategory" %}
+
+<div class="filter-bar" id="tools-filter">
+  <button class="filter-btn active" data-filter="all">All</button>
+  {% for group in tool_groups %}
+  <button class="filter-btn" data-filter="{{ group.name | slugify }}">{{ group.name }}</button>
   {% endfor %}
-</ul>
+</div>
+
+<div class="bento-grid" id="tools-grid">
+  {% for post in tool_posts %}
+  <a href="{{ post.url }}" class="bento-card" data-category="{{ post.subcategory | slugify }}">
+    <div class="bento-card-text">
+      <span class="bento-card-date">{{ post.date | date: "%B %d, %Y" }}</span>
+      <h2>{{ post.title }}</h2>
+      <p>{{ post.excerpt | strip_html | truncate: 110 }}</p>
+    </div>
+    <div class="bento-card-media">
+      {% if post.image %}
+        <img src="{{ post.image }}" alt="{{ post.title }}">
+      {% else %}
+        <img src="/images/placeholder-tools.svg" alt="{{ post.title }}">
+      {% endif %}
+    </div>
+    <span class="bento-arrow">&rarr;</span>
+  </a>
+  {% endfor %}
+</div>
+
+<script>
+(function() {
+  var bar = document.getElementById('tools-filter');
+  if (!bar) return;
+  var buttons = bar.querySelectorAll('.filter-btn');
+  var cards = document.querySelectorAll('#tools-grid .bento-card');
+  bar.addEventListener('click', function(e) {
+    var btn = e.target.closest('.filter-btn');
+    if (!btn) return;
+    buttons.forEach(function(b) { b.classList.remove('active'); });
+    btn.classList.add('active');
+    var filter = btn.getAttribute('data-filter');
+    cards.forEach(function(card) {
+      var match = filter === 'all' || card.getAttribute('data-category') === filter;
+      card.classList.toggle('hidden', !match);
+    });
+  });
+})();
+</script>

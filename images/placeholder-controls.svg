@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
+  <rect width="400" height="200" fill="#e5e7eb"/>
+  <rect x="175" y="60" width="50" height="40" rx="4" fill="none" stroke="#9ca3af" stroke-width="2"/>
+  <circle cx="187" cy="74" r="5" fill="#9ca3af"/>
+  <polyline points="175,95 190,80 205,95 215,85 225,95" fill="none" stroke="#9ca3af" stroke-width="2"/>
+  <text x="200" y="125" text-anchor="middle" font-family="-apple-system,sans-serif" font-size="12" fill="#9ca3af">controls</text>
+</svg>

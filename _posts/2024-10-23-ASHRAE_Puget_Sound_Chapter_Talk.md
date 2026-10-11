@@ -3,6 +3,7 @@ layout: post
 title: David Chassin speaks at ASHRAE Puget Sound Chapter Meeting
 category: News
 tags: [Events]
+image: /images/2022.07.21-NERCs-2022-State-of-Reliability-report-flags-serious-challenges-to-cybersecurity-threat-landscape-in-2021.webp
 ---
 
 _David Chassin presents the current research on projections of building electrification impacts to the grid over the next decade._

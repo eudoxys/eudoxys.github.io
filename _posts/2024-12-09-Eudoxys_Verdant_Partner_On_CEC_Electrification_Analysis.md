@@ -3,6 +3,7 @@ layout: post
 title: Eudoxys and Verdant Associates Partner On CEC Distributed Energy and Electrification Analysis RFP
 category: News
 tags: [Events]
+image: /images/verdant.png
 ---
 
 *Eudoxys Sciences LLC partners with Verdant Associates to provide technical assistance to the California Energy Commission.*
