@@ -2,8 +2,8 @@
 ---
 
 // Colors
-$primary: #1a56db;
-$primary-dark: #1442a8;
+$primary: #1f2937;
+$primary-dark: #051923;
 $primary-light: #e8effc;
 $text: #1f2937;
 $text-secondary: #6b7280;
@@ -395,7 +395,7 @@ img { max-width: 100%; height: auto; }
 
 // News slideshow
 .news-section {
-  background: #111;
+  background: #1f2937;
   color: $white;
   padding: 5rem 3rem;
 
@@ -1087,7 +1087,7 @@ img { max-width: 100%; height: auto; }
 }
 
 .product-card {
-  background: #111;
+  background: #1f2937;
   border-radius: 16px;
   overflow: hidden;
   display: flex;
@@ -1096,14 +1096,14 @@ img { max-width: 100%; height: auto; }
 
   &:hover {
     transform: translateY(-4px);
-    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 20px 60px #1f2937;
   }
 }
 
 .product-media {
   width: 100%;
   aspect-ratio: 16 / 10;
-  background: #1e1e1e;
+  background: #1f2937;
   overflow: hidden;
 
   img, video {
@@ -1522,7 +1522,7 @@ img { max-width: 100%; height: auto; }
   display: flex;
   flex-direction: column;
   min-height: 420px;
-  background: #111;
+  background: #1f2937;
   border-radius: 20px;
   overflow: hidden;
   text-decoration: none;
@@ -1531,7 +1531,7 @@ img { max-width: 100%; height: auto; }
 
   &:hover {
     transform: translateY(-4px);
-    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 20px 60px #1f2937;
     text-decoration: none;
   }
 
@@ -1600,7 +1600,7 @@ img { max-width: 100%; height: auto; }
 
   .bento-card:hover & {
     background: $white;
-    color: #111;
+    color: #1f2937;
     transform: rotate(-45deg);
   }
 }
