@@ -3,6 +3,7 @@ layout: post
 title: Markets, agency, and trust; AI agents and the knowledge problem
 category: Products
 tags: [Products]
+image: /images/ep.jpg
 ---
 
 By Brennan McDavid, Lynne Kiesling, and David Chassin
