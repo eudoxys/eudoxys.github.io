@@ -3,6 +3,7 @@ layout: post
 title: US Buildings Inventory
 category: Tools
 tags: [Tools]
+image: /images/ORNL.jpg
 ---
 
 _Eudoxys Sciences releases `buildings` package to access ORNL inventory of US buildings_.
