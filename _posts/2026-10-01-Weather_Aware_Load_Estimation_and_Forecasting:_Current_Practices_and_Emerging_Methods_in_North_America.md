@@ -3,6 +3,7 @@ layout: post
 title: Weather-Aware Load Estimation and Forecasting; Current Practices and Emerging Methods in North America
 category: Products
 tags: [Products]
+image: /images/load_estimation.jpg
 ---
 
 By David P. Chassin
